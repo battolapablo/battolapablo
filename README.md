@@ -11,7 +11,7 @@ Especializado en **Desarrollo Backend**, aunque mi experiencia abarca todo el es
 ## 👨‍💻 **Tecnologías que manejo**  
 - **Lenguajes**: TypeScript, JavaScript  
 - **Front-End**: React, Next.js, Tailwind CSS  
-- **Back-End**: NestJS, Drizzle ORM, JWT  
+- **Back-End**: NestJS, Drizzle ORM, JWT, TypeORM, Prisma  
 - **Bases de datos**: PostgreSQL  
 - **Herramientas**: Git, Docker, Cloudinary, Swagger  
 - **Metodologías**: Scrum, Pair Programming  
